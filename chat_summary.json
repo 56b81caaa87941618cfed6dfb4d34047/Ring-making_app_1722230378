@@ -36,5 +36,11 @@
         "content": "add a form with two lwo links about us and home",
         "timestamp": "29072024052610",
         "message_id": "guest29072024052609"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Will do, adding a form with links to \"about us\" and \"home\".",
+        "timestamp": "29072024052611",
+        "message_id": "guest29072024052609"
     }
 ]

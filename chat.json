@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Will do, adding a form with links to \"about us\" and \"home\".",
+        "message_id": "guest29072024052609",
+        "timestamp": "29072024052611",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form with two lwo links about us and home",
         "message_id": "guest29072024052609",
