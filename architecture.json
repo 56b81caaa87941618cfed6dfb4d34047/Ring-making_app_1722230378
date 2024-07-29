@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "add a sidebar with the navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a sidebar with the navlinks home, about and contact\nAI: Acknowledged, creating sidebar with home, about and contact navlinks.\nThis is the user's current request of changes to be made: add a form with two lwo links about us and home"
     }
 ]
