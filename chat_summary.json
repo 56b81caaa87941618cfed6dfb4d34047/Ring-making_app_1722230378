@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under navlinks for organizing subtopics or categories\", \"checked\": true}, {\"feature\": \"Responsive design for sidebar navigation to adapt on mobile devices\", \"checked\": true}, {\"feature\": \"Interactive hover effects on navlinks for better user engagement\", \"checked\": false}, {\"feature\": \"Sticky sidebar option to keep navigation visible while scrolling\", \"checked\": false}, {\"feature\": \"Theme customization options for sidebar to match brand identity\", \"checked\": true}], \"input_token_count\": 218, \"output_token_count\": 104, \"time_taken\": \"0:00:09.033443\"}",
         "timestamp": "29072024052026",
         "message_id": "guest29072024052016"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be fixed and always visible or should it become visible upon interaction, such as clicking a menu icon?\", \"option1\": \"Fixed and always visible\", \"option2\": \"Visible upon interaction\"}, {\"question 2\": \"For the sidebar design, do you have a specific theme or color palette in mind to match the app's branding, or should we use default or neutral colors?\", \"option1\": \"Use specific theme or color palette\", \"option2\": \"Use default or neutral colors\"}], \"input_token_count\": 264, \"output_token_count\": 120, \"time_taken\": \"0:00:10.192555\"}",
+        "timestamp": "29072024052028",
+        "message_id": "guest29072024052016"
     }
 ]
