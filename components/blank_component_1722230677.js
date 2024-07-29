@@ -33,14 +33,20 @@ Vue.component("blank_component_1722230677", {
                                     </label>
                                     <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="password" type="password" placeholder="******************">
                                 </div>
-                                <div class="flex items-center justify-between">
-                                    <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
-                                        About Us
-                                    </a>
-                                    <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
-                                        Home
-                                    </a>
-                                </div>
+<div class="flex items-center justify-between">
+    <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
+        About Us
+    </a>
+    <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
+        Home
+    </a>
+    <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
+        Bars
+    </a>
+    <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800" href="#">
+        Fetch Code
+    </a>
+</div>
                             </form>
                         </div>
                     </div>
