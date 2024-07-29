@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722230379",
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add more link bars and include fetchCode.",
+        "message_id": "guest29072024052719",
+        "timestamp": "29072024052719",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "29072024052017",
-        "message_id": "guest29072024052016"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Acknowledged, creating sidebar with home, about and contact navlinks.",
-        "timestamp": "29072024052017",
-        "message_id": "guest29072024052016"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under navlinks for organizing subtopics or categories\", \"checked\": true}, {\"feature\": \"Responsive design for sidebar navigation to adapt on mobile devices\", \"checked\": true}, {\"feature\": \"Interactive hover effects on navlinks for better user engagement\", \"checked\": false}, {\"feature\": \"Sticky sidebar option to keep navigation visible while scrolling\", \"checked\": false}, {\"feature\": \"Theme customization options for sidebar to match brand identity\", \"checked\": true}], \"input_token_count\": 218, \"output_token_count\": 104, \"time_taken\": \"0:00:09.033443\"}",
-        "timestamp": "29072024052026",
-        "message_id": "guest29072024052016"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be fixed and always visible or should it become visible upon interaction, such as clicking a menu icon?\", \"option1\": \"Fixed and always visible\", \"option2\": \"Visible upon interaction\"}, {\"question 2\": \"For the sidebar design, do you have a specific theme or color palette in mind to match the app's branding, or should we use default or neutral colors?\", \"option1\": \"Use specific theme or color palette\", \"option2\": \"Use default or neutral colors\"}], \"input_token_count\": 264, \"output_token_count\": 120, \"time_taken\": \"0:00:10.192555\"}",
-        "timestamp": "29072024052028",
-        "message_id": "guest29072024052016"
-    },
-    {
-        "role": "user",
-        "content": "add a form with two lwo links about us and home",
-        "timestamp": "29072024052610",
-        "message_id": "guest29072024052609"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Will do, adding a form with links to \"about us\" and \"home\".",
-        "timestamp": "29072024052611",
-        "message_id": "guest29072024052609"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the form with the two links to be located in relation to the existing sidebar?\", \"option1\": \"Below the sidebar\", \"option2\": \"Integrated within the sidebar\"}, {\"question 2\": \"For the form, do you prefer a specific style or theme that aligns with the existing design of your app?\", \"option1\": \"Yes, match the existing design style of the app\", \"option2\": \"No, I am open to suggestions for a new style\"}], \"input_token_count\": 321, \"output_token_count\": 115, \"time_taken\": \"0:00:04.021543\"}",
-        "timestamp": "29072024052615",
-        "message_id": "guest29072024052609"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form for gathering user feedback\", \"checked\": true}, {\"feature\": \"Integrate a 'Quick Links' section within the form for 'About Us' and 'Home'\", \"checked\": true}, {\"feature\": \"Create a dynamic footer with FAQs and contact information\", \"checked\": false}, {\"feature\": \"Incorporate a 'Latest Updates' section on the homepage\", \"checked\": false}, {\"feature\": \"Enable form validation for user input to improve data quality\", \"checked\": true}, {\"feature\": \"Add a 'Subscribe to Newsletter' checkbox in the form\", \"checked\": false}], \"input_token_count\": 275, \"output_token_count\": 129, \"time_taken\": \"0:00:04.451186\"}",
-        "timestamp": "29072024052615",
-        "message_id": "guest29072024052609"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add some more link like bars and fetchCode",
+        "message_id": "guest29072024052719",
+        "timestamp": "29072024052719",
+        "component_file_name": "blank_component_1722230677",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form for gathering user feedback\", \"checked\": true}, {\"feature\": \"Integrate a 'Quick Links' section within the form for 'About Us' and 'Home'\", \"checked\": true}, {\"feature\": \"Create a dynamic footer with FAQs and contact information\", \"checked\": false}, {\"feature\": \"Incorporate a 'Latest Updates' section on the homepage\", \"checked\": false}, {\"feature\": \"Enable form validation for user input to improve data quality\", \"checked\": true}, {\"feature\": \"Add a 'Subscribe to Newsletter' checkbox in the form\", \"checked\": false}], \"input_token_count\": 275, \"output_token_count\": 129, \"time_taken\": \"0:00:04.451186\"}",
+        "message_id": "guest29072024052609",
+        "timestamp": "29072024052615",
+        "component_file_name": "blank_component_1722230677",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the form with the two links to be located in relation to the existing sidebar?\", \"option1\": \"Below the sidebar\", \"option2\": \"Integrated within the sidebar\"}, {\"question 2\": \"For the form, do you prefer a specific style or theme that aligns with the existing design of your app?\", \"option1\": \"Yes, match the existing design style of the app\", \"option2\": \"No, I am open to suggestions for a new style\"}], \"input_token_count\": 321, \"output_token_count\": 115, \"time_taken\": \"0:00:04.021543\"}",
+        "message_id": "guest29072024052609",
+        "timestamp": "29072024052615",
+        "component_file_name": "blank_component_1722230677",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Will do, adding a form with links to \"about us\" and \"home\".",
+        "message_id": "guest29072024052609",
+        "timestamp": "29072024052611",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a form with two lwo links about us and home",
+        "message_id": "guest29072024052609",
+        "timestamp": "29072024052610",
+        "component_file_name": "blank_component_1722230677",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be fixed and always visible or should it become visible upon interaction, such as clicking a menu icon?\", \"option1\": \"Fixed and always visible\", \"option2\": \"Visible upon interaction\"}, {\"question 2\": \"For the sidebar design, do you have a specific theme or color palette in mind to match the app's branding, or should we use default or neutral colors?\", \"option1\": \"Use specific theme or color palette\", \"option2\": \"Use default or neutral colors\"}], \"input_token_count\": 264, \"output_token_count\": 120, \"time_taken\": \"0:00:10.192555\"}",
+        "message_id": "guest29072024052016",
+        "timestamp": "29072024052028",
+        "component_file_name": "blank_component_1722230410",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under navlinks for organizing subtopics or categories\", \"checked\": true}, {\"feature\": \"Responsive design for sidebar navigation to adapt on mobile devices\", \"checked\": true}, {\"feature\": \"Interactive hover effects on navlinks for better user engagement\", \"checked\": false}, {\"feature\": \"Sticky sidebar option to keep navigation visible while scrolling\", \"checked\": false}, {\"feature\": \"Theme customization options for sidebar to match brand identity\", \"checked\": true}], \"input_token_count\": 218, \"output_token_count\": 104, \"time_taken\": \"0:00:09.033443\"}",
+        "message_id": "guest29072024052016",
+        "timestamp": "29072024052026",
+        "component_file_name": "blank_component_1722230410",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, creating sidebar with home, about and contact navlinks.",
+        "message_id": "guest29072024052016",
+        "timestamp": "29072024052017",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest29072024052016",
+        "timestamp": "29072024052017",
+        "component_file_name": "blank_component_1722230410",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "29072024052719",
         "message_id": "guest29072024052719"
     }
