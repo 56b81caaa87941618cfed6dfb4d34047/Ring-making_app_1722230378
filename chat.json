@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the additional link bars, where would you like them to be positioned within the app?\", \"option1\": \"At the top of the app as part of the primary navigation\", \"option2\": \"At the bottom of the app as part of the footer\"}, {\"question 2\": \"Regarding the fetchCode feature, what type of content do you expect to retrieve with this function?\", \"option1\": \"Retrieve data from an internal database\", \"option2\": \"Fetch data from an external API\"}], \"input_token_count\": 261, \"output_token_count\": 116, \"time_taken\": \"0:00:02.927212\"}",
+        "message_id": "guest29072024052719",
+        "timestamp": "29072024052722",
+        "component_file_name": "blank_component_1722230677",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add more link bars and include fetchCode.",
         "message_id": "guest29072024052719",
