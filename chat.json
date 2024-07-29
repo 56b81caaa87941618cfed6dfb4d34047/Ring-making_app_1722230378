@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a form with two lwo links about us and home",
+        "message_id": "guest29072024052609",
+        "timestamp": "29072024052610",
+        "component_file_name": "blank_component_1722230677",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be fixed and always visible or should it become visible upon interaction, such as clicking a menu icon?\", \"option1\": \"Fixed and always visible\", \"option2\": \"Visible upon interaction\"}, {\"question 2\": \"For the sidebar design, do you have a specific theme or color palette in mind to match the app's branding, or should we use default or neutral colors?\", \"option1\": \"Use specific theme or color palette\", \"option2\": \"Use default or neutral colors\"}], \"input_token_count\": 264, \"output_token_count\": 120, \"time_taken\": \"0:00:10.192555\"}",
         "message_id": "guest29072024052016",
