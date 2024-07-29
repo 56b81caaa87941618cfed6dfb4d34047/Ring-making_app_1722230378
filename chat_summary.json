@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form for gathering user feedback\", \"checked\": true}, {\"feature\": \"Integrate a 'Quick Links' section within the form for 'About Us' and 'Home'\", \"checked\": true}, {\"feature\": \"Create a dynamic footer with FAQs and contact information\", \"checked\": false}, {\"feature\": \"Incorporate a 'Latest Updates' section on the homepage\", \"checked\": false}, {\"feature\": \"Enable form validation for user input to improve data quality\", \"checked\": true}, {\"feature\": \"Add a 'Subscribe to Newsletter' checkbox in the form\", \"checked\": false}], \"input_token_count\": 275, \"output_token_count\": 129, \"time_taken\": \"0:00:04.451186\"}",
         "timestamp": "29072024052615",
         "message_id": "guest29072024052609"
+    },
+    {
+        "role": "user",
+        "content": "add some more link like bars and fetchCode",
+        "timestamp": "29072024052719",
+        "message_id": "guest29072024052719"
     }
 ]
